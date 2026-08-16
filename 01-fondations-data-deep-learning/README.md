@@ -12,6 +12,9 @@
 - `projets/` — projet étape versionné
 - `ressources/` — cours, articles, cheatsheets
 
+## Cours recommandés
+Voir [`ressources/cours/README.md`](../ressources/cours/README.md#phase-1--fondations-data--deep-learning)
+
 ## Projet étape
 Classifieur de données tabulaires ou d'images, avec évaluation des biais par sous-groupe.
 

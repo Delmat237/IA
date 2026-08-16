@@ -7,6 +7,9 @@
 - `on-device/` — LiteRT (TF Lite), ONNX Runtime, `llama.cpp`, conversion mobile/web
 - `projets/` — projet étape versionné (inclut architecture API légère : FastAPI/Node.js/Spring Boot, offline-first)
 
+## Cours recommandés
+Voir [`ressources/cours/README.md`](../ressources/cours/README.md#phase-3--ia-frugale--edge-ai)
+
 ## Projet étape
 Embarquer un modèle de STT/TTS quantifié dans une application locale sans connexion Internet.
 

@@ -7,6 +7,9 @@
 - `ethique-audit/` — robustesse face à la diversité des utilisateurs, model cards
 - `projet-final/` — application complète de bout en bout (ex: assistant vocal hors-ligne santé/agriculture/services publics)
 
+## Cours recommandés
+Voir [`ressources/cours/README.md`](../ressources/cours/README.md#phase-4--ux-inclusif-multimodalité--déploiement)
+
 ## Critères de réussite
 - Test utilisateur réel avec le public cible
 - Audit WCAG passé

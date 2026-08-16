@@ -8,6 +8,9 @@
 - `vision/` — détection d'objets, OCR (YOLO, OpenCV, MediaPipe, Tesseract)
 - `projets/` — projet étape versionné
 
+## Cours recommandés
+Voir [`ressources/cours/README.md`](../ressources/cours/README.md#phase-2--voix-langage--vision)
+
 ## Projet étape
 Pipeline capable de transcrire de l'audio dans une langue/accent spécifique et de synthétiser la réponse sous forme vocale.
 

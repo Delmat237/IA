@@ -27,5 +27,8 @@ Comme la machine locale n'a pas de GPU, pour les entraînements plus lourds (Pha
 - **Google Colab** (gratuit, T4 disponible) — https://colab.research.google.com
 - **Kaggle Notebooks** (gratuit, quota GPU hebdomadaire) — https://www.kaggle.com/code
 
+## Cours recommandés
+Voir [`ressources/cours/README.md`](../ressources/cours/README.md#phase-0--setup--environnement)
+
 ## Livrable
 ✅ [`hello_world.ipynb`](hello_world.ipynb) — notebook qui entraîne un modèle jouet (régression linéaire PyTorch) et confirme que l'environnement fonctionne. Exécuté avec succès en local sur CPU (loss converge de ~126 à ~0.25, poids appris ≈ cible).
