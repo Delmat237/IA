@@ -17,3 +17,5 @@ wheels/
 
 # Env / secrets
 .env
+
+.vscode/
